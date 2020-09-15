@@ -4,3 +4,11 @@
 
 This repository contains all of the notes [Angus](https://github.com/AngusJK) has taken during the [Lighthouse Labs](https://www.lighthouselabs.ca/) bootcamp.
 
+### Table of Contents
+
+* [Week 1](/Week_1)
+  * [Day 1](/Week_1/Day_1)
+
+  
+
+
